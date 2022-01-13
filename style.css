@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Lato&family=Maven+Pro&display=swap');
+nav{
+  font-family: Lato;
+}
+
+h1{
+  text-align: center;
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+}
+h2{
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-weight: bold;
+}
+
+hr{
+   height: 30px;
+   border-style: solid;
+   border-color: black;
+   border-width: 1px 0 0 0;
+}
+
+textarea{
+  margin-top: 10px;
+}
+
+/* Title and Navbar */
+.navbar-brand{
+  font-size: 1.5rem;
+}
+
+.nav-item{
+  padding: 0 10px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+}
+
+.box_1{
+ padding-top: 5%;
+}
+
+.box_1 h1{
+  text-align: left;
+}
+
+#title{
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#features{
+  padding: 3% 12%;
+  text-align: center;
+}
+.features-box{
+  padding: 4%;
+}
+.icon{
+  margin-bottom: 2rem;
+  color: #78866b;
+}
+.icon:hover{
+  color: #7ba05b;
+}
+#table{
+  margin-bottom: 2em;
+}
+#testimonials{
+  padding: 3% 15%;
+  text-align: center;
+  background-color: #7ba05b;
+  color: #fff;
+}
+.testimonials-img{
+  width: 8%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
